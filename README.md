@@ -18,8 +18,11 @@ Two classification models, Logistic Regression (LR) and Random Forest (RF), were
 
 The evaluation results of this  models are as follows:
 
-- Logistic Regression Accuracy: 81.5%
-- Random Forest Accuracy: 66.5%
+🔹 **Logistic Regression**
+Accuracy: 81.5%
+
+🔹 **Random Forest**
+Accuracy: 66.5%
 
 The model with the highest accuracy was chosen as the best model for author prediction.
 
